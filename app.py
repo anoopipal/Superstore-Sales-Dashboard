@@ -12,8 +12,7 @@ st.set_page_config(
 st.title("📊 Superstore Sales Analysis Dashboard")
 
 # Load Dataset
-df = pd.read_csv(
-    ,'Sample - Superstore.csv'
+df = pd.read_csv('Sample - Superstore.csv', encoding='latin1')
     encoding='latin1'
 )
 
