@@ -13,8 +13,6 @@ st.title("📊 Superstore Sales Analysis Dashboard")
 
 # Load Dataset
 df = pd.read_csv('Sample - Superstore.csv', encoding='latin1')
-    encoding='latin1'
-)
 
 df['Order Date'] = pd.to_datetime(df['Order Date'])
 
