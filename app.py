@@ -13,7 +13,7 @@ st.title("📊 Superstore Sales Analysis Dashboard")
 
 # Load Dataset
 df = pd.read_csv(
-    '/content/Sample - Superstore.csv',
+    ,'Sample - Superstore.csv'
     encoding='latin1'
 )
 
