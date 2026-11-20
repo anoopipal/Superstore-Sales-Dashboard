@@ -64,6 +64,16 @@ Displays sales records for data exploration.
 ## 🚀 Live Dashboard
 
 [View Live Dashboard](https://superstore-sales-dashboard-h2w3sdwzrgmfgafiwh8ots.streamlit.app/)
+## 📸 Dashboard Screenshots
+
+### 1. Dashboard Overview
+![Dashboard Overview](dashboard-overview.png.png)
+
+### 2. Interactive Filters
+![Interactive Filters](interactive-filters.png.png)
+
+### 3. Sales Charts
+![Sales Charts](sales-charts.png.png)
 
 ## 💻 How to Run Locally
 
